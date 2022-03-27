@@ -34,3 +34,9 @@ yarn-error.log*
 .vercel
 
 public/feed.xml
+
+#pages
+/pages/posts/mdfilesample.md
+
+#Vscode Plugins
+.vscode
