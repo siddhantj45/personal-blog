@@ -40,3 +40,6 @@ public/feed.xml
 
 #Vscode Plugins
 .vscode
+
+#Prettier Ignore
+.prettierignore
